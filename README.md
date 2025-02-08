@@ -1,5 +1,4 @@
 
-```markdown
 <p align="center">
   <img src="https://i.imgur.com/your-logo.png" alt="SenpaiBot Logo" width="200"/>
 </p>
@@ -129,7 +128,8 @@ The bot comes with an **Admin Dashboard** that allows:
 ## 💬 **Need Help?**
 For any issues or questions, feel free to [open an issue](https://github.com/NinjaCoder-X/SenpaiBot/issues).  
 
+---
+
 <p align="center">
   🚀 **Developed with ❤️ by [NinjaCoder-X](https://github.com/NinjaCoder-X)** 🚀
 </p>
-```
