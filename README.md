@@ -5,30 +5,6 @@
 <h1 align="center">🦸‍♂️ SenpaiBot 🤖💬</h1>
 
 <p align="center">
-  <b>A powerful AI-driven WhatsApp bot with smart commands, weather updates, news retrieval, and more!</b>  
-  <br/><br/>
-  <img src="https://img.shields.io/github/license/NinjaCoder-X/SenpaiBot?color=blue"/>
-  <img src="https://img.shields.io/github/package-json/v/NinjaCoder-X/SenpaiBot?color=green"/>
-  <img src="https://img.shields.io/github/stars/NinjaCoder-X/SenpaiBot?color=yellow"/>
-  <img src="https://img.shields.io/github/forks/NinjaCoder-X/SenpaiBot?color=red"/>
-  <img src="https://img.shields.io/github/contributors/NinjaCoder-X/SenpaiBot"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NinjaCoder-X/SenpaiBot"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"></a>
-  <a href="https://your-demo-url.com"><img src="https://img.shields.io/badge/Live Demo-FF5733?style=for-the-badge&logo=appveyor"></a>
-  <a href="https://github.com/NinjaCoder-X/SenpaiBot/issues"><img src="https://img.shields.io/badge/Report-Issue-red?style=for-the-badge&logo=bugatti"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/your-logo.png" alt="SenpaiBot Logo" width="200"/>
-</p>
-
-<h1 align="center">🦸‍♂️ SenpaiBot 🤖💬</h1>
-
-<p align="center">
   <b>A powerful AI-driven WhatsApp bot with smart commands, media support, and real-time updates!</b>  
   <br/><br/>
   <img src="https://img.shields.io/github/license/NinjaCoder-X/SenpaiBot?color=blue"/>
