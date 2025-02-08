@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { isAdmin } = require("./utils/admin");
 
 const animeImages = [
     "https://i.imgur.com/1g9nZIo.jpg",
@@ -30,13 +29,7 @@ async function sendMenu(sock, sender) {
     commands.forEach(cmd => {
         menuText += `- 📌 */${cmd.command}* → ${cmd.description}\n`;
     });
-    
-    if (await isAdmin(sender)) {
-        menuText += `\n⚙️ *Admin Commands:*\n`;
-        menuText += `- 🔧 */ban <user>* → Ban a user\n`;
-        menuText += `- 🔧 */unban <user>* → Unban a user\n`;
-    }
-    
+
     const buttons = [
         { buttonId: "menu_ai", buttonText: { displayText: "🤖 AI Chat" }, type: 1 },
         { buttonId: "menu_weather", buttonText: { displayText: "☀️ Weather" }, type: 1 },
